@@ -1,1 +1,6 @@
-华迪杯参赛系统
+//第一次创建仓库 将本地代码上传到仓库
+git init
+git add . (或者git add 文件名字)
+git commit -m"提交信息"
+git remote add origin 仓库连接 （与远程仓库关联）
+git push origin master (上传到master分支)
